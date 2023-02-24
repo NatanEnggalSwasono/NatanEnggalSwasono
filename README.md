@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Perkenalkan nama saya adalah **Natan Enggal Swasono**.
+
+Saya seorang **Mahasiswa** di Universitas Kristen Immanuel, dan sekarang mengambil Studi Independen di [Dicoding](https://www.dicoding.com/).
+
+Saya mengambil kelas Pengembangan Front-End Wen dan Back-End.
+
+
+
 <!--
 **NatanEnggalSwasono/NatanEnggalSwasono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
